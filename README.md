@@ -13,7 +13,7 @@
 <ul>Decorator</ul>
 <ul>Type interference</ul>
 
-### Plus
+### wt React
 
 <ol>  1. React with typescript  </ol>
 <ol>   2. Component</ol>
