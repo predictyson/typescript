@@ -1,0 +1,24 @@
+{
+  "name": "ts",
+  "version": "1.0.0",
+  "description": "혼자 TS 삽질해보기 ## index ### Grammer <ul>compiler options</ul> <ul>basic types</ul> <ul>var, ket, const</ul> <ul>Type assertions, Type alias</ul> <ul>interface</ul> <ul>class</ul> <ul>Generic</ul> <ul>iterator</ul> <ul>Decorator</ul> <ul>Type interference</ul>",
+  "main": "index.js",
+  "scripts": {
+    "devwatch": "tsc -w",
+    "transpile": "tsc test.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yezgoget/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yezgoget/typescript/issues"
+  },
+  "homepage": "https://github.com/yezgoget/typescript#readme",
+  "dependencies": {
+    "typescript": "^4.3.4"
+  }
+}
