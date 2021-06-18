@@ -1,7 +1,7 @@
 # typescript
 혼자 TS 삽질해보기
 ## index
-### 문법
+### Grammer
 <ul>compiler options</ul>
 <ul>basic types</ul>
 <ul>var, ket, const</ul>
