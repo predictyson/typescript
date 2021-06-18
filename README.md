@@ -1,6 +1,19 @@
 # typescript
 혼자 TS 삽질해보기
 ## index
+### 문법
+<ul>compiler options</ul>
+<ul>basic types</ul>
+<ul>var, ket, const</ul>
+<ul>Type assertions, Type alias</ul>
+<ul>interface</ul>
+<ul>class</ul>
+<ul>Generic</ul>
+<ul>iterator</ul>
+<ul>Decorator</ul>
+<ul>Type interference</ul>
+
+### Plus
 
 <ol>  1. React with typescript  </ol>
 <ol>   2. Component</ol>
