@@ -1,7 +1,11 @@
 # typescript
+
 혼자 TS 삽질해보기
+
 ## index
+
 ### Grammer
+
 <ul>compiler options</ul>
 <ul>basic types</ul>
 <ul>var, ket, const</ul>
@@ -11,7 +15,7 @@
 <ul>Generic</ul>
 <ul>iterator</ul>
 <ul>Decorator</ul>
-<ul>Type interference</ul>
+<ul>Type inference</ul>
 
 ### wt React
 
