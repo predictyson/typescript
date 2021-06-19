@@ -4,7 +4,7 @@
 ### Grammer
 <ul>compiler options</ul>
 <ul>basic types</ul>
-<ul>var, ket, const</ul>
+<ul>var, let, const</ul>
 <ul>Type assertions, Type alias</ul>
 <ul>interface</ul>
 <ul>class</ul>
