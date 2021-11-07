@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5", //컴파일된 코드가 어떤 환경에서 실행되는지
+    "module": "commonjs", //export default Sample -> exports.default=helloWorld (unless es2015)
+    "strict": true, // 모든 타입 체킹 옵션 활성화
+    "esModuleInterop": true, 
+    "outDir": "./dist"
+  }
+}
